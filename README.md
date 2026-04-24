@@ -1,16 +1,34 @@
-## Hi there 👋
+## Hey there! 👋
 
-<!--
-**JustinRhysHughes/JustinRhysHughes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Justin, a software developer based in Ballarat, one of two developers building and maintaining the intranet and mobile app for **Ballarat Clarendon College**, a private school in regional Victoria.
 
-Here are some ideas to get you started:
+I work primarily on the frontend, building interfaces with ASP.NET Core MVC, HTML, CSS, JavaScript, and C#. 🔍
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack
+
+```json
+{
+  "languages": ["C#", "JavaScript", "HTML", "CSS", "Regex"],
+  "frameworks": ["ASP.NET Core MVC"],
+  "focus": ["Frontend", "Web Development"]
+}
+```
+
+---
+
+### 🎮 Outside of Work
+
+When I'm not pushing commits, you'll find me:
+
+- Gaming 🎮
+- Listening to music 🎧
+- Reading books, manga, and comics 📚
+- Watching TV, movies and anime ✨
+- Building and tinkering with PCs 🖥️
+- Spending time with my family, cats and dog 👨‍👩‍👧🐈‍⬛🐱🐶
+
+---
+
+Speak soon! 🙌
