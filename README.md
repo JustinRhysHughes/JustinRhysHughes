@@ -4,17 +4,7 @@ I'm Justin, a software developer based in Ballarat, one of two developers buildi
 
 I work primarily on the frontend, building interfaces with ASP.NET Core MVC, HTML, CSS, JavaScript, and C#. 🔍
 
----
-
-### 🛠️ Tech Stack
-
-```json
-{
-  "languages": ["C#", "JavaScript", "HTML", "CSS", "Regex"],
-  "frameworks": ["ASP.NET Core MVC"],
-  "focus": ["Frontend", "Web Development"]
-}
-```
+I'm currently expanding my backend skills, studying a Diploma of Information Technology (Advanced Programming) combined with a Diploma of Information Technology (Back End Web Development).
 
 ---
 
@@ -31,4 +21,16 @@ When I'm not pushing commits, you'll find me:
 
 ---
 
-Speak soon! 🙌
+### 🛠️ Languages & Tools
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" alt="ASP.NET" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt=".NET Core" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+</p>
