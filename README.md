@@ -1,8 +1,8 @@
-## Hey there! 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Seda&size=30&duration=3000&pause=30&width=200&lines=Hello+there;Bonjour;Hallo;Ciao;Konnichiwa)](https://git.io/typing-svg)
 
 I'm Justin, a software developer based in Ballarat, one of two developers building and maintaining the intranet and mobile app for **Ballarat Clarendon College**, a private school in regional Victoria.
 
-I work primarily on the frontend, building interfaces with ASP.NET Core MVC, HTML, CSS, JavaScript, and C#. 🔍
+I work primarily on the frontend, building interfaces with ASP.NET Core MVC, HTML, CSS, JavaScript, and C#.
 
 I'm currently expanding my backend skills, studying a Diploma of Information Technology (Advanced Programming) combined with a Diploma of Information Technology (Back End Web Development).
 
