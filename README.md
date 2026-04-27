@@ -23,14 +23,13 @@ When I'm not pushing commits, you'll find me:
 
 ### 🛠️ Languages & Tools
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" alt="ASP.NET" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt=".NET Core" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
-</p>
+<div dir="auto">
+  <a href="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="35" height="35" style="max-width: 100%; height: auto; max-height: 35px;"></a>&nbsp;&nbsp;
+  <a href="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="35" height="35" style="max-width: 100%; height: auto; max-height: 35px;"></a>&nbsp;&nbsp;
+  <a href="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/html5/html5-plain-wordmark.svg" title="HTML5" alt="HTML5" width="35" height="35" style="max-width: 100%; height: auto; max-height: 35px;"></a>&nbsp;&nbsp;
+  <a href="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS3" width="35" height="35" style="max-width: 100%; height: auto; max-height: 35px;"></a>&nbsp;&nbsp;
+  <a href="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/dotnetcore/dotnetcore-original.svg" title=".NET Core" alt=".NET Core" width="35" height="35" style="max-width: 100%; height: auto; max-height: 35px;"></a>&nbsp;&nbsp;
+  <a href="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/visualstudio/visualstudio-plain.svg" title="Visual Studio" alt="Visual Studio" width="35" height="35" style="max-width: 100%; height: auto; max-height: 35px;"></a>&nbsp;&nbsp;
+  <a href="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/git/git-original.svg" title="Git" alt="Git" width="35" height="35" style="max-width: 100%; height: auto; max-height: 35px;"></a>&nbsp;&nbsp;
+  <a href="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="35" height="35" style="max-width: 100%; height: auto; max-height: 35px;"></a>
+</div>
